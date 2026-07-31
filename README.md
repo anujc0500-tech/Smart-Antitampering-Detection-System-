@@ -1,1 +1,0 @@
-# Smart-Antitampering-Detection-System-
