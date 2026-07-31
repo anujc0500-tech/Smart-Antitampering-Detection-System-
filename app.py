@@ -1,4 +1,5 @@
 import sqlite3
+import hashlibdef connect():
 
 DB_NAME = "products.db"
 
