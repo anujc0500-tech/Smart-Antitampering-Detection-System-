@@ -204,8 +204,6 @@ if __name__=="__main__":
         "B9C8D7E6",
 
         "15/08/2024",
-import hashlib
-
 DB_NAME = "products.db"
 
 
